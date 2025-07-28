@@ -1,0 +1,2 @@
+# nfa
+list inventory
